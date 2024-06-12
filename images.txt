@@ -1,1 +1,2 @@
 mysql:8.0.0
+jenkins/jenkins:2.440.3-lts-jdk17
