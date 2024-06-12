@@ -1,2 +1,2 @@
---platform=linux/amd64 mysql:8.0.0
---platform=linux/amd64 jenkins/jenkins:2.440.3-lts-jdk17
+mysql:8.0.0
+jenkins/jenkins:2.440.3-lts-jdk17
