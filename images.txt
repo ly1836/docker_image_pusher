@@ -1,6 +1,1 @@
-mysql:8.0.0
-jenkins/jenkins:2.440.3-lts-jdk17
-openjdk:8
-redis:7.2.4
-ly753/rabbitmq:3-delayed
-kentalk/helloworld:latest
+bitnami/postgresql:14.13.0
