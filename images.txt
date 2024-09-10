@@ -1,1 +1,1 @@
-bitnami/postgresql:14.13.0
+canal/canal-server:v1.1.7
