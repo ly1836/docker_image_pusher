@@ -1,1 +1,1 @@
-canal/canal-admin:v1.1.7
+flowable/all-in-one:6.5.0
