@@ -1,1 +1,1 @@
-flowable/all-in-one:6.5.0
+yidadaa/chatgpt-next-web:v2.15.8
