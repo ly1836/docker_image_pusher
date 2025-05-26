@@ -1,1 +1,1 @@
-golangboyme/wxocr:latest
+nacos-standalone-derby:latest
