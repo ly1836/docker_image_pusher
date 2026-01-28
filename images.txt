@@ -1,1 +1,1 @@
-nacos-standalone-derby:latest
+quoinedev/python3.6-pandas-alpine:latest
